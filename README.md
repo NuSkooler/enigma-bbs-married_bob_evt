@@ -38,3 +38,6 @@ randomMarriedBobArt: {
   next: someOtherMenu
 }
 ```
+
+# Special Thanks
+Thanks to [Luciano Ayres](https://github.com/lucianoayres/married-bob-ansi-art-comic) for Married Bob of course!
