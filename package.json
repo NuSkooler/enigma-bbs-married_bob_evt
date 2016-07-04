@@ -1,0 +1,19 @@
+{
+  "name": "enigma-bbs-married_bob_evt",
+  "version": "1.0.0",
+  "description": "Event for fetching the latest Married Bob ANSI",
+  "main": "married_bob_evt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ansi",
+    "enigma-bbs"
+  ],
+  "author": "Bryan Ashby (NuSkooler)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "async": "^1.5.1",
+    "yamljs" : "^0.2.8"
+  }
+}
