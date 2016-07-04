@@ -12,6 +12,8 @@ TODO document me!
 
     cd /path/to/enigma-bbs/mods
     git clone https://github.com/NuSkooler/enigma-bbs-married_bob_evt.git married_bob_evt
+    cd married_bob_evt
+    npm install
 
 
 ## Add to the Scheduler
